@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jay-amin-tops/reactproject/static/css/main.073c9b0a.css",
+    "main.js": "/jay-amin-tops/reactproject/static/js/main.7131369e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/jay-amin-tops/reactproject/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/jay-amin-tops/reactproject/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jay-amin-tops/reactproject/index.html",
+    "main.073c9b0a.css.map": "/jay-amin-tops/reactproject/static/css/main.073c9b0a.css.map",
+    "main.7131369e.js.map": "/jay-amin-tops/reactproject/static/js/main.7131369e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/jay-amin-tops/reactproject/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7131369e.js"
+  ]
+}
